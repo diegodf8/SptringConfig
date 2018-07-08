@@ -1,7 +1,7 @@
 server:
 #  port: 8089
 config:
-  saludo: Hola curso JAVA!!
+  saludo: Hola curso JAVA Diego!!
 
 #EUREKA
 eureka:
