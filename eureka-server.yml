@@ -1,6 +1,9 @@
 server:
   port: 8761
   
+config:
+  saludo: Configuracion Eureka en Config Server
+  
 eureka:
   client:
     registerWithEureka: false
